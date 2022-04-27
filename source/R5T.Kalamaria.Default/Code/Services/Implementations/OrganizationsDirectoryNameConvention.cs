@@ -1,9 +1,9 @@
-﻿using System;
+using System;using R5T.T0064;
 
 
 namespace R5T.Kalamaria.Default
-{
-    public class OrganizationsDirectoryNameConvention : IOrganizationsDirectoryNameConvention
+{[ServiceImplementationMarker]
+    public class OrganizationsDirectoryNameConvention : IOrganizationsDirectoryNameConvention,IServiceImplementation
     {
         public const string OrganizationsDirectoryName = "Organizations";
 

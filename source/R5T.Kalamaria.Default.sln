@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Kalamaria.Base", "..\..\R5T.Kalamaria.Base\source\R5T.Kalamaria.Base\R5T.Kalamaria.Base.csproj", "{3D743C3C-9806-40E6-997F-EB442067D132}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{BA6B162C-104F-4754-AB04-D3F9641EE58C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,12 +73,25 @@ Global
 		{3D743C3C-9806-40E6-997F-EB442067D132}.Release|x64.Build.0 = Release|Any CPU
 		{3D743C3C-9806-40E6-997F-EB442067D132}.Release|x86.ActiveCfg = Release|Any CPU
 		{3D743C3C-9806-40E6-997F-EB442067D132}.Release|x86.Build.0 = Release|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Debug|x64.Build.0 = Debug|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Debug|x86.Build.0 = Debug|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Release|x64.ActiveCfg = Release|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Release|x64.Build.0 = Release|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Release|x86.ActiveCfg = Release|Any CPU
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3D743C3C-9806-40E6-997F-EB442067D132} = {2EB91458-6CED-4238-8023-F845F4D54C36}
+		{BA6B162C-104F-4754-AB04-D3F9641EE58C} = {2EB91458-6CED-4238-8023-F845F4D54C36}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5BED8DE8-6330-4463-BDEF-699562C0D9A4}
